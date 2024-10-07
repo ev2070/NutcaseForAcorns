@@ -52,3 +52,7 @@ The following was provided by Professor Blake Andrews from the NYU Tandon _DM-UY
 - `snd_theme` - _Synthsound 3 sparkly.wav_ by smallclone -- https://freesound.org/s/692914/ -- License: Creative Commons 0
 
 - `snd_wind` - _Wind strong JPN.wav_ by jpnien -- https://freesound.org/s/97397/ -- License: Creative Commons 0
+
+---
+
+[< Go Back](https://github.com/ev2070/NutcaseForAcorns)
