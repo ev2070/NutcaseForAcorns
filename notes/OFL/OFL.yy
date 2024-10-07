@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"OFL",
+  "name":"OFL",
+  "parent":{
+    "name":"Bowlby_One_SC",
+    "path":"folders/Fonts/Bowlby_One_SC.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
