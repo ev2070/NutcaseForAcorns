@@ -63,6 +63,16 @@ Assets and code that I do not own are acknowledged in the [credits.md](./credits
 
 This project was developed using starter code and guidance provided by **Professor Blake Andrews** as part of the NYU Tandon _DM-UY 2153: Intro to Game Development_ course. Some portions of the code were adapted from the provided materials. All modifications and additional features were implemented by myself.
 
+# Usage
+
+While I appreciate interest in my project, please note the following:
+
+- **Original Assets and Code**: The original artwork and code created specifically for this project are not to be used or modified without my explicit permission. If you'd like to use them, please contact me first.
+
+- **Attribution**: If you do use any assets or code from this project that are credited to others, please ensure you follow the respective licenses and provide proper attribution.
+
+- **Commercial Use**: This project and its original assets cannot be used for commercial purposes without my written consent.
+
 ## Contact
 
 I’d love to hear from you! If you have any questions, feedback, or suggestions about **Nutcase For Acorns**, feel free to reach out.
