@@ -63,7 +63,7 @@ Assets and code that I do not own are acknowledged in the [credits.md](./credits
 
 This project was developed using starter code and guidance provided by **Professor Blake Andrews** as part of the NYU Tandon _DM-UY 2153: Intro to Game Development_ course. Some portions of the code were adapted from the provided materials. All modifications and additional features were implemented by myself.
 
-# Usage
+## Usage
 
 While I appreciate interest in my project, please note the following:
 
