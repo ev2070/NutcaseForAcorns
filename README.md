@@ -77,6 +77,6 @@ While I appreciate interest in my project, please note the following:
 
 I’d love to hear from you! If you have any questions, feedback, or suggestions about **Nutcase For Acorns**, feel free to reach out.
 
-    Email: eviii.professional@gmail.com
+    Email: feliiizabeth@gmail.com
 
 Thank you for playing **Nutcase For Acorns**!
